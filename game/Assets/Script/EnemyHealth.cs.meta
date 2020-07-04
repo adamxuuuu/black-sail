@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c7c40a086f405bb438f85267adda8cc6
+timeCreated: 1484428830
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - healthBar: {instanceID: 0}
+  - CBTPrefab: {fileID: 1000011397835552, guid: 8f52f5b4d65f282438e51dfa3c6c7d93,
+      type: 2}
+  - barrerl: {fileID: 100000, guid: 07db7fae50dc3f046a2cf72b17b0a304, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

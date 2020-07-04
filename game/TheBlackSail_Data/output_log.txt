@@ -1,0 +1,62 @@
+Initialize engine version: 5.4.2f2 (b7e030c65c9b)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 970 (ID=0x13c2)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\ce318\myGame_ce318\TheBlackSail_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\ce318\myGame_ce318\TheBlackSail_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\ce318\myGame_ce318\TheBlackSail_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\ce318\myGame_ce318\TheBlackSail_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\ce318\myGame_ce318\TheBlackSail_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\ce318\myGame_ce318\TheBlackSail_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\ce318\myGame_ce318\TheBlackSail_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\ce318\myGame_ce318\TheBlackSail_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\ce318\myGame_ce318\TheBlackSail_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\ce318\myGame_ce318\TheBlackSail_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\ce318\myGame_ce318\TheBlackSail_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading D:\ce318\myGame_ce318\TheBlackSail_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.042 seconds
+Platform assembly: D:\ce318\myGame_ce318\TheBlackSail_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\ce318\myGame_ce318\TheBlackSail_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 3600x1082 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.681574 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1d78 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.351168 ms
+0.2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+0.2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 623.
+Total: 0.476620 ms (FindLiveObjects: 0.020848 ms CreateObjectMapping: 0.020527 ms MarkObjects: 0.240234 ms  DeleteObjects: 0.181218 ms)
+
+Hit
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Hit
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Hit
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.033426 ms
+
+Unloading 112 unused Assets to reduce memory usage. Loaded Objects now: 375.
+Total: 4.234419 ms (FindLiveObjects: 0.017640 ms CreateObjectMapping: 0.014754 ms MarkObjects: 0.200142 ms  DeleteObjects: 4.001561 ms)
+

@@ -1,0 +1,2571 @@
+Initialize engine version: 5.4.2f2 (b7e030c65c9b)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 970 (ID=0x13c2)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\OneDrive - Queen Mary, University of London\EssexCW\ce318\myGame_ce318\TheBlackSail_Alpha_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\OneDrive - Queen Mary, University of London\EssexCW\ce318\myGame_ce318\TheBlackSail_Alpha_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\OneDrive - Queen Mary, University of London\EssexCW\ce318\myGame_ce318\TheBlackSail_Alpha_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\OneDrive - Queen Mary, University of London\EssexCW\ce318\myGame_ce318\TheBlackSail_Alpha_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\OneDrive - Queen Mary, University of London\EssexCW\ce318\myGame_ce318\TheBlackSail_Alpha_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\OneDrive - Queen Mary, University of London\EssexCW\ce318\myGame_ce318\TheBlackSail_Alpha_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\OneDrive - Queen Mary, University of London\EssexCW\ce318\myGame_ce318\TheBlackSail_Alpha_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\OneDrive - Queen Mary, University of London\EssexCW\ce318\myGame_ce318\TheBlackSail_Alpha_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\OneDrive - Queen Mary, University of London\EssexCW\ce318\myGame_ce318\TheBlackSail_Alpha_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\OneDrive - Queen Mary, University of London\EssexCW\ce318\myGame_ce318\TheBlackSail_Alpha_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\OneDrive - Queen Mary, University of London\EssexCW\ce318\myGame_ce318\TheBlackSail_Alpha_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading D:\OneDrive - Queen Mary, University of London\EssexCW\ce318\myGame_ce318\TheBlackSail_Alpha_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  1.248 seconds
+Platform assembly: D:\OneDrive - Queen Mary, University of London\EssexCW\ce318\myGame_ce318\TheBlackSail_Alpha_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\OneDrive - Queen Mary, University of London\EssexCW\ce318\myGame_ce318\TheBlackSail_Alpha_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.579800 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 2a48 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.339200 ms
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1054.
+Total: 1.363100 ms (FindLiveObjects: 0.048400 ms CreateObjectMapping: 0.026300 ms MarkObjects: 0.448900 ms  DeleteObjects: 0.838500 ms)
+
+1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+SawPlayer firesd
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+NoPlayer firesd
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+SawPlayer firesd
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Hit
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Hit
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Hit
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+LostPlayer firesd
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+SawPlayer firesd
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+PlayerShip (UnityEngine.GameObject) entered shop
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+SawPlayer firesd
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+LostPlayer firesd
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+SawPlayer firesd
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Hit
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Hit
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Hit
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+PlayerShip (UnityEngine.GameObject) entered shop
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+PlayerShip (UnityEngine.GameObject) entered shop
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Hit
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+PlayerShip (UnityEngine.GameObject) entered shop
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+PlayerShip (UnityEngine.GameObject) entered shop
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+PlayerShip (UnityEngine.GameObject) entered shop
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+PlayerShip (UnityEngine.GameObject) entered shop
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+PlayerShip (UnityEngine.GameObject) entered shop
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+SawPlayer firesd
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+PlayerShip (UnityEngine.GameObject) entered shop
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+PlayerShip (UnityEngine.GameObject) entered shop
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+PlayerShip (UnityEngine.GameObject) entered shop
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Hit
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Hit
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Hit
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+PlayerShip (UnityEngine.GameObject) entered shop
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+PlayerShip (UnityEngine.GameObject) entered shop
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+PlayerShip (UnityEngine.GameObject) entered shop
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at SmallShipController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at SmallShipController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at SmallShipController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at FightingState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at SmallShipController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at SmallShipController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at SmallShipController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at FightingState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at SmallShipController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at SmallShipController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at SmallShipController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at FightingState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at SmallShipController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at SmallShipController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at SmallShipController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at FightingState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at SmallShipController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at SmallShipController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at SmallShipController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at FightingState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at SmallShipController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at SmallShipController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at SmallShipController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at FightingState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at SmallShipController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at SmallShipController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at SmallShipController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at FightingState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at SmallShipController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at SmallShipController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at SmallShipController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at FightingState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at SmallShipController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at SmallShipController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at SmallShipController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at FightingState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at SmallShipController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at SmallShipController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at SmallShipController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at FightingState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at SmallShipController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at SmallShipController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at SmallShipController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at FightingState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at SmallShipController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at SmallShipController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at SmallShipController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at FightingState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at SmallShipController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at SmallShipController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at SmallShipController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at FightingState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at SmallShipController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at SmallShipController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at SmallShipController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at FightingState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at SmallShipController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at SmallShipController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at SmallShipController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at FightingState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at SmallShipController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at SmallShipController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at SmallShipController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at FightingState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at SmallShipController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at SmallShipController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at SmallShipController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at FightingState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at SmallShipController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at SmallShipController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at SmallShipController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at FightingState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at SmallShipController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at SmallShipController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at SmallShipController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at FightingState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at SmallShipController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at SmallShipController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at SmallShipController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at FightingState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at SmallShipController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at SmallShipController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at SmallShipController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at FightingState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at SmallShipController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at SmallShipController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at SmallShipController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at FightingState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at SmallShipController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at SmallShipController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at SmallShipController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at FightingState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at SmallShipController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at SmallShipController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at SmallShipController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at FightingState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at SmallShipController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at SmallShipController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at SmallShipController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at FightingState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at SmallShipController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at SmallShipController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at SmallShipController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at FightingState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at SmallShipController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at SmallShipController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at SmallShipController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at FightingState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at SmallShipController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at SmallShipController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at SmallShipController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at FightingState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at SmallShipController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at SmallShipController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at SmallShipController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at FightingState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at SmallShipController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at SmallShipController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at SmallShipController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at FightingState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at SmallShipController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at SmallShipController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at SmallShipController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at FightingState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at SmallShipController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at SmallShipController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at SmallShipController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at FightingState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at SmallShipController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at SmallShipController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at SmallShipController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at FightingState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at SmallShipController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at SmallShipController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at SmallShipController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at FightingState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at SmallShipController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at SmallShipController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at SmallShipController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at FightingState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at SmallShipController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at SmallShipController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at SmallShipController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at FightingState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at SmallShipController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at SmallShipController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at SmallShipController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at FightingState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at SmallShipController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at SmallShipController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at SmallShipController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at FightingState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at SmallShipController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at SmallShipController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at SmallShipController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at FightingState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at SmallShipController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at SmallShipController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at SmallShipController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at FightingState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at SmallShipController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at SmallShipController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at SmallShipController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at FightingState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at WanderState.Reason (UnityEngine.GameObject player, UnityEngine.GameObject npc) [0x00000] in <filename unknown>:0 
+  at MediumShipControllor.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.482600 ms
+
+Unloading 422 unused Assets to reduce memory usage. Loaded Objects now: 590.
+Total: 4.465800 ms (FindLiveObjects: 0.028300 ms CreateObjectMapping: 0.027400 ms MarkObjects: 0.291600 ms  DeleteObjects: 4.118100 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.530600 ms
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 1060.
+Total: 1.336200 ms (FindLiveObjects: 0.034300 ms CreateObjectMapping: 0.028900 ms MarkObjects: 0.475700 ms  DeleteObjects: 0.796600 ms)
+
+1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+SawPlayer firesd
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+SawPlayer firesd
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+SawPlayer firesd
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+SawPlayer firesd
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+NoPlayer firesd
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Hit
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Hit
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+LostPlayer firesd
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.272900 ms
+
+Unloading 422 unused Assets to reduce memory usage. Loaded Objects now: 593.
+Total: 4.515300 ms (FindLiveObjects: 0.025900 ms CreateObjectMapping: 0.026100 ms MarkObjects: 0.306500 ms  DeleteObjects: 4.156000 ms)
+
